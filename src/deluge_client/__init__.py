@@ -7,7 +7,7 @@ import zlib
 
 from rencode import dumps, loads
 
-__version__ = '1.0.0'
+__version__ = '1.1.0'
 
 
 RPC_RESPONSE = 1
